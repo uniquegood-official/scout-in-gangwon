@@ -1,2 +1,27 @@
-# scout-in-gangwon
-Scout in Gangwon - A scouting website for Gangwon region
+# 스카우트 in 강원
+
+강원도에서 만나는 새로운 스카우팅 경험을 제공하는 웹사이트입니다.
+
+## 특징
+
+- 🏔️ 강원도 자연 탐험 프로그램
+- 🏕️ 캠핑 & 야영 활동
+- 🎯 실용적인 스카우팅 기술 교육
+- 🤝 공동체 정신 함양
+- 🌟 개인 성장과 도전 기회
+- 🎉 평생 기억에 남을 추억 만들기
+
+## 기술 스택
+
+- HTML5
+- CSS3 (Flexbox, Grid, 애니메이션)
+- 바닐라 JavaScript
+- 반응형 웹 디자인
+
+## 배포
+
+이 프로젝트는 Vercel을 통해 자동 배포됩니다.
+
+## 라이센스
+
+© 2024 스카우트 in 강원. All rights reserved.
